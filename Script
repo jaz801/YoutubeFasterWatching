@@ -1,11 +1,26 @@
+
+INSTRUCTIONS
+
+You need to use the Google Chrome browser.
+
+If you never watch Youtube in 2x don't use this code!!!! You can't handle the speed. 
+
+This is for people who crunch a 7 hour workshop in one session, for who 2x speed isn't fast enough.
+
+Start with 2.6 speed then go to 2.3 speed, you trick your mind in thinking it is slower. But feel free to try different speeds. 
+I have never tested it but I read somewhere that Youtube crashes between 6 and 9x but anyways that is far beyond human comprehension/interpreation speed.
+
+
 Right Mouse Click -> Inspect -> Console. (cmd option J)
 
 
 
-Enter:
+Enter and change the x:
 
           $('video').playbackRate=x
 
 
 
- Close the tab
+ To reset to normal close the tab
+
+
