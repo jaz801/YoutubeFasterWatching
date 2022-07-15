@@ -1,0 +1,11 @@
+Right Mouse Click -> Inspect -> Console. (cmd option J)
+
+
+
+Enter:
+
+          $('video').playbackRate=x
+
+
+
+ Close the tab
